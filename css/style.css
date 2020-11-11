@@ -1,0 +1,27 @@
+.selector-for-some-widget { 
+    box-sizing: content-box;
+   } 
+  .container {
+    padding: 25px ;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: center;
+    justify-content: space-evenly;
+  }
+  .row {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: center;
+    justify-content: space-evenly;
+  }
+  .jumbotron {
+    height: 600px;
+    background: url(../img/kelly-sikkema-uUBltZemj1E-unsplash.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
